@@ -10,7 +10,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://portfolio-bice-iota-pwm6m81wge.vercel.app"),
+  metadataBase: new URL("https://antoniosanchez.vercel.app"),
   title: {
     default: "Antonio Sánchez | Software Developer",
     template: "%s | Antonio Sánchez"
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Antonio Sánchez | Software Developer",
     description: "Portfolio of Antonio Sánchez, Junior Software Developer specialized in backend and Flutter mobile development.",
-    url: "https://portfolio-bice-iota-pwm6m81wge.vercel.app",
+    url: "https://antoniosanchez.vercel.app",
     siteName: "Antonio Sánchez Portfolio",
     images: [
       {
