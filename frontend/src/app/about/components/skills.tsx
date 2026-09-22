@@ -13,7 +13,8 @@ import {
     SiGithub,
     SiFigma,
     SiPostman,
-    SiRender
+    SiRender,
+    SiVercel
 } from "react-icons/si";
 import { FaJava } from "react-icons/fa6";
 import type { IconType } from "react-icons";
@@ -58,6 +59,7 @@ const skillCategories: SkillCategory[] = [
             { name: "Figma", icon: SiFigma },
             { name: "Postman", icon: SiPostman },
             { name: "Render", icon: SiRender },
+            { name: "Vercel", icon: SiVercel },
         ],
     },
 ];
